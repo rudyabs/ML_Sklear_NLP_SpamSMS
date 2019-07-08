@@ -16,4 +16,5 @@ Gunakan `import nltk` dan download package **stopwords** dengan `nltk.download_s
 
 [Facebook](https://www.facebook.com/rudy.bumisatrio) |
 [Twitter](https://twitter.com/rudy_bumi) |
-[GitHub](https://github.com/LintangWisesa)
+[GitHub](https://github.com/rudyabs) |
+[Kaggle](https://www.kaggle.com/rudyabs)
